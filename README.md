@@ -1,4 +1,7 @@
-# api documentation for  [gulp-asset-rev (v0.0.15)](https://github.com/hellopao/gulp_plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-asset-rev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-asset-rev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-asset-rev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-asset-rev)
+# npmdoc-gulp-asset-rev
+
+#### api documentation for  [gulp-asset-rev (v0.0.15)](https://github.com/hellopao/gulp_plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-asset-rev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-asset-rev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-asset-rev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-asset-rev)
+
 #### replace asset's filename by adding file hash
 
 [![NPM](https://nodei.co/npm/gulp-asset-rev.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-asset-rev)
@@ -61,7 +64,8 @@
         "url": "git+https://github.com/hellopao/gulp_plugin.git"
     },
     "scripts": {},
-    "version": "0.0.15"
+    "version": "0.0.15",
+    "bin": {}
 }
 ```
 
